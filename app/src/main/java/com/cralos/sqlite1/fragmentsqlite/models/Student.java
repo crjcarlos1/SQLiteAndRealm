@@ -1,4 +1,4 @@
-package com.cralos.sqlite1.models;
+package com.cralos.sqlite1.fragmentsqlite.models;
 
 public class Student {
     private String nombres;

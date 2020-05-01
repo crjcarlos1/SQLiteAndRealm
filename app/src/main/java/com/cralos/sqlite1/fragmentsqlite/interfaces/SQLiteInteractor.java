@@ -1,4 +1,4 @@
-package com.cralos.sqlite1.fragment.interfaces;
+package com.cralos.sqlite1.fragmentsqlite.interfaces;
 
 public interface SQLiteInteractor {
     void insertarEstudiante(String matricula, String nombres, String semestre, String carrera);

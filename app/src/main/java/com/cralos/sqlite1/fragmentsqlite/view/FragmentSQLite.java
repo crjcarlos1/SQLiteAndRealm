@@ -1,4 +1,4 @@
-package com.cralos.sqlite1.fragment.view;
+package com.cralos.sqlite1.fragmentsqlite.view;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -14,9 +14,9 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
 import com.cralos.sqlite1.R;
-import com.cralos.sqlite1.fragment.interfaces.SQLitePresenter;
-import com.cralos.sqlite1.fragment.interfaces.SQLiteView;
-import com.cralos.sqlite1.fragment.presenters.SQLitePresenterImpl;
+import com.cralos.sqlite1.fragmentsqlite.interfaces.SQLitePresenter;
+import com.cralos.sqlite1.fragmentsqlite.interfaces.SQLiteView;
+import com.cralos.sqlite1.fragmentsqlite.presenters.SQLitePresenterImpl;
 
 public class FragmentSQLite extends Fragment implements View.OnClickListener, SQLiteView {
     public static final String TAG = FragmentSQLite.class.getSimpleName();

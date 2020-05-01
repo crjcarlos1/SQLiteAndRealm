@@ -1,11 +1,11 @@
-package com.cralos.sqlite1.fragment.presenters;
+package com.cralos.sqlite1.fragmentsqlite.presenters;
 
 import android.content.Context;
 
-import com.cralos.sqlite1.fragment.interactors.SQLiteInteractorImpl;
-import com.cralos.sqlite1.fragment.interfaces.SQLiteInteractor;
-import com.cralos.sqlite1.fragment.interfaces.SQLitePresenter;
-import com.cralos.sqlite1.fragment.interfaces.SQLiteView;
+import com.cralos.sqlite1.fragmentsqlite.interactors.SQLiteInteractorImpl;
+import com.cralos.sqlite1.fragmentsqlite.interfaces.SQLiteInteractor;
+import com.cralos.sqlite1.fragmentsqlite.interfaces.SQLitePresenter;
+import com.cralos.sqlite1.fragmentsqlite.interfaces.SQLiteView;
 
 public class SQLitePresenterImpl implements SQLitePresenter {
 

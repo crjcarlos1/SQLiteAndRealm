@@ -1,4 +1,4 @@
-package com.cralos.sqlite1.fragment.interfaces;
+package com.cralos.sqlite1.fragmentsqlite.interfaces;
 
 public interface SQLiteView {
     void showMessage(String message);

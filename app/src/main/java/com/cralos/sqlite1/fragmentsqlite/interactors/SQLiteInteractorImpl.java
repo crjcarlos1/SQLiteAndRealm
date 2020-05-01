@@ -1,12 +1,12 @@
-package com.cralos.sqlite1.fragment.interactors;
+package com.cralos.sqlite1.fragmentsqlite.interactors;
 
 import android.content.ContentValues;
 import android.content.Context;
 
-import com.cralos.sqlite1.fragment.interfaces.SQLiteInteractor;
-import com.cralos.sqlite1.fragment.interfaces.SQLitePresenter;
-import com.cralos.sqlite1.models.Student;
-import com.cralos.sqlite1.sqlite.AlumnosManager;
+import com.cralos.sqlite1.fragmentsqlite.interfaces.SQLiteInteractor;
+import com.cralos.sqlite1.fragmentsqlite.interfaces.SQLitePresenter;
+import com.cralos.sqlite1.fragmentsqlite.models.Student;
+import com.cralos.sqlite1.fragmentsqlite.sqlite.AlumnosManager;
 
 import java.util.List;
 

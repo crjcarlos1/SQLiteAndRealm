@@ -1,4 +1,4 @@
-package com.cralos.sqlite1.sqlite;
+package com.cralos.sqlite1.fragmentsqlite.sqlite;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;

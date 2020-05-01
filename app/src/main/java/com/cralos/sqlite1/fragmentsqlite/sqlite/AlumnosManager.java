@@ -1,11 +1,11 @@
-package com.cralos.sqlite1.sqlite;
+package com.cralos.sqlite1.fragmentsqlite.sqlite;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 
-import com.cralos.sqlite1.models.Student;
+import com.cralos.sqlite1.fragmentsqlite.models.Student;
 
 import java.util.ArrayList;
 import java.util.List;
